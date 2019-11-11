@@ -157,7 +157,6 @@ const Content = styled.div`
 	grid-template-columns: repeat(4, 1fr);
 	grid-column-gap: 1.25rem;
 	grid-row-gap: 1rem;
-	padding-bottom: 1rem;
 	
 	@media (max-width : 768px) {
 		grid-template-columns: repeat(1, 1fr);
@@ -223,6 +222,8 @@ const Gif = styled.img`
 `
 const BottomRow = styled(Row)`
 	width: 100%;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 `
 
 const PageNum = styled.input`
