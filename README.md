@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm watch`
+### `npm run watch`
 runs the app in development mode
 view at http://localhost:8080 to view it in the browser
 
